@@ -16,7 +16,7 @@
 
 // ReSharper disable once CheckNamespace
 
-namespace Elmah
+namespace ToyStackTraceFormatter
 {
     using System.Collections.Generic;
     using System.Diagnostics;

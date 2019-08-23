@@ -1,4 +1,4 @@
-namespace Elmah
+namespace ToyStackTraceFormatter
 {
     public partial interface IStackTraceFormatter<T> {}
     public partial class StackTraceFormatter {}
